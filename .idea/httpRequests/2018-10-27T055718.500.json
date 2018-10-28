@@ -1,7 +1,0 @@
-{
-  "timestamp": "2018-10-27T19:57:18.369+0000",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "Missing URI template variable 'idPost' for method parameter of type Integer",
-  "path": "/comentario/post/8/comentario/count"
-}

@@ -1,7 +1,0 @@
-{
-  "timestamp": "2018-10-27T12:44:37.031+0000",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "[Ljava.lang.Object; cannot be cast to br.com.iftm.post.Post",
-  "path": "/post/8/texto"
-}
