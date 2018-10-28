@@ -1,0 +1,394 @@
+GET http://localhost:8082/comentario/post/top/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T061242.200.json
+
+###
+
+GET http://localhost:8082/comentario/post/top/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T060911.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/top/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T060657.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/top/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T055953.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/8/comentario/count
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T055946.200.json
+
+###
+
+GET http://localhost:8082/comentario/post/8/comentario/count
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T055718.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/top/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T125638.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/8/comentario/count
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T125630.500.json
+
+###
+
+GET http://localhost:8082/comentario/post/8/comentario
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T125425.200.json
+
+###
+
+GET http://localhost:8082/comentario/post/8/comentario
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T114441.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T114437.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113444.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113413.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113356.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113346.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113312.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113257.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113032.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T113014.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112903.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112728.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112529.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112516.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112443.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112344.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T112002.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T111917.200.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T111100.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T110942.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T110832.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T104523.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T104437.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T104258.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T104146.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T104046.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103858.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103725.500.json
+
+###
+
+GET http://localhost:8080/post/8/texto
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103550.500.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103503.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103122.200.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T103040.500.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102845.500.json
+
+###
+
+GET http://localhost:8080/post/posts
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102818.404.json
+
+###
+
+GET http://localhost:8080/post/posts
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102248.500.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102236.404.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102222.404.json
+
+###
+
+GET http://localhost:8080/post
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-27T102207.404.json
+
+###
+
+GET http://localhost:8080/posts
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/posts
+Accept: */*
+Cache-Control: no-cache
+
+###
+

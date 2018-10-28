@@ -1,0 +1,4 @@
+rootProject.name = 'posts'
+include 'post-service'
+include 'comentarios-service'
+include 'post-web'

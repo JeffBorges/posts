@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-10-27T12:28:45.690+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No message available",
+  "path": "/post/"
+}

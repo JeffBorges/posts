@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-10-27T19:59:53.825+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "could not extract ResultSet; nested exception is org.hibernate.exception.GenericJDBCException: could not extract ResultSet",
+  "path": "/comentario/post/top/comentario"
+}
